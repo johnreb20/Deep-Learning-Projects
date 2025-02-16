@@ -20,6 +20,13 @@
 
 # Major Project 3: Text Translation and Sentiment Analysis using Transformers
 
+### Minor Excerises
+1. MNIST GAN
+2. DCGAN Generator Discriminator, Training,  Frechet Inception Distance
+3. CycleGAN
+4. ProGAN, StyleGAN 
+
+
 # Major Project 4:  Face Generation Project
 - Build a custom generative adversarial network to generate new images of faces.
 - Used a dataset of high-resolution images of "celebrity" faces.
