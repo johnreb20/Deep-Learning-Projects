@@ -13,12 +13,12 @@
 3. Linear Autoencoders, Convolutional Autoencoders, Denoising Autoencoders
 4. Object Detection using RetinaNet, Semantic Segmentation using UNet
 
-## Major Project 2:  Landmark Classification & Tagging for Social Media Project
+# Major Project 2:  Landmark Classification & Tagging for Social Media Project
 - Created a CNN to classify landmarks from scratch.
 - Used Transfer Learning with resnet18 to classify same landmarks.
 - Deployed an app
 
-## Major Project 3: Text Translation and Sentiment Analysis using Transformers
+# Major Project 3: Text Translation and Sentiment Analysis using Transformers
 
-## Major Project 4:  Face Generation Project
+# Major Project 4:  Face Generation Project
 -
