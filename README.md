@@ -2,7 +2,7 @@
 1. Use of PyTorch
 2. Implemented Gradient Descent
 3. Designing NN with Achitecture and Activation functions
-4. Training NN with different techniques like regularisation, eqrly stopping, dropout, ranmdom restart, etc.
+4. Training NN with different techniques like regularisation, early stopping, dropout, ranmdom restart, etc.
 
 # Major Project 1: Developing a Handwritten Digits Classifier with PyTorch Project 
 - Used MLP to classify MINST data with  accuracy
