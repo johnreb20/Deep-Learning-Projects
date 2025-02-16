@@ -4,7 +4,8 @@
 3. Designing NN with Achitecture and Activation functions
 4. Training NN with different techniques like regularisation, eqrly stopping, dropout, ranmdom restart, etc.
 
-# Major Project 1: Developing a Handwritten Digits Classifier with PyTorch Project
+# Major Project 1: Developing a Handwritten Digits Classifier with PyTorch Project 
+- Used MLP to classify MINST data with  accuracy
 
 ### Minor Excerises
 1. Convolution Layer Visulization, Pooling Layer Visualization, CNNs for CIFAR Image Classification,  Improving Performance using BatchgNorm and Image Augmentation and Exporting for Production
