@@ -5,7 +5,7 @@
 4. Training NN with different techniques like regularisation, early stopping, dropout, ranmdom restart, etc.
 
 # Major Project 1: Developing a Handwritten Digits Classifier with PyTorch 
-- Used MLP to classify MINST data with  accuracy
+- Used MLP to classify MINST data with  accuracy 97%
 
 ### Minor Excerises
 1. Convolution Layer Visulization, Pooling Layer Visualization, CNNs for CIFAR Image Classification,  Improving Performance using BatchgNorm and Image Augmentation and Exporting for Production
