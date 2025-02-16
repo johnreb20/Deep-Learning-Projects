@@ -4,7 +4,7 @@
 3. Designing NN with Achitecture and Activation functions
 4. Training NN with different techniques like regularisation, early stopping, dropout, ranmdom restart, etc.
 
-# Major Project 1: Developing a Handwritten Digits Classifier with PyTorch Project 
+# Major Project 1: Developing a Handwritten Digits Classifier with PyTorch 
 - Used MLP to classify MINST data with  accuracy
 
 ### Minor Excerises
@@ -13,7 +13,7 @@
 3. Linear Autoencoders, Convolutional Autoencoders, Denoising Autoencoders
 4. Object Detection using RetinaNet, Semantic Segmentation using UNet
 
-# Major Project 2:  Landmark Classification & Tagging for Social Media Project
+# Major Project 2:  Landmark Classification & Tagging for Social Media 
 - Created a CNN to classify landmarks from scratch.
 - Used Transfer Learning with resnet18 to classify same landmarks.
 - Deployed an app
