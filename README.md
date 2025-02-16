@@ -21,4 +21,5 @@
 # Major Project 3: Text Translation and Sentiment Analysis using Transformers
 
 # Major Project 4:  Face Generation Project
--
+- Build a custom generative adversarial network to generate new images of faces.
+- Used a dataset of high-resolution images of "celebrity" faces.
