@@ -1,4 +1,3 @@
-#Deep Learning Projects
 
 ## Minor Exercises
 ### PyTorch Basics
