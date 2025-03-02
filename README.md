@@ -37,8 +37,15 @@
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 - [Deep Learning Nano Degree](https://www.udacity.com/enrollment/nd101)
 
+## Books
+- Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- Understanding Deep Learning by Simon J.D. Prince
+  
+
 ## Contributing
 Feel free to contribute by submitting issues or pull requests!
+
+
 
 ## License
 MIT License. See [LICENSE](LICENSE) for more details.
